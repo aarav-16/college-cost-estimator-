@@ -1,0 +1,5909 @@
+{
+  "DU Fees for Shri Ram College of Commerce": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "29965",
+      "sc": "29780",
+      "st": "29780",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "29965",
+      "sc": "29780",
+      "st": "29780",
+      "pwd": "75"
+    }
+  ],
+  "DU Fee for Delhi College of Arts and Commerce": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10615",
+      "sc": "10615",
+      "st": "10615",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "10015",
+      "sc": "10015",
+      "st": "10015",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10015",
+      "sc": "10015",
+      "st": "10015",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10015",
+      "sc": "10015",
+      "st": "10015",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10015",
+      "sc": "10015",
+      "st": "10015",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10015",
+      "sc": "10015",
+      "st": "10015",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10015",
+      "sc": "10015",
+      "st": "10015",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Journalism",
+      "urobcminority": "19665",
+      "sc": "19665",
+      "st": "19665",
+      "pwd": "105"
+    }
+  ],
+  "DU Fees for St. Stephen's College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "34890",
+      "sc": "34890",
+      "st": "34890",
+      "pwd": "350"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "34890",
+      "sc": "34890",
+      "st": "34890",
+      "pwd": "350"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "34890",
+      "sc": "34890",
+      "st": "34890",
+      "pwd": "350"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "34890",
+      "sc": "34890",
+      "st": "34890",
+      "pwd": "350"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "34890",
+      "sc": "34890",
+      "st": "34890",
+      "pwd": "350"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "34890",
+      "sc": "34890",
+      "st": "34890",
+      "pwd": "350"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "36050",
+      "sc": "36050",
+      "st": "36050",
+      "pwd": "350"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "38105",
+      "sc": "38105",
+      "st": "38105",
+      "pwd": "350"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "38105",
+      "sc": "38105",
+      "st": "38105",
+      "pwd": "350"
+    },
+    {
+      "program": "B.Sc. Physical Sciences",
+      "urobcminority": "38100",
+      "sc": "38100",
+      "st": "38100",
+      "pwd": "350"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "0",
+      "sc": "0",
+      "st": "0",
+      "pwd": "0"
+    }
+  ],
+  "DU Fees 2022 for Zakir Husain Delhi College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Arabic",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Bengali",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Persian",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "10780",
+      "sc": "10780",
+      "st": "10780",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Urdu",
+      "urobcminority": "7980",
+      "sc": "7980",
+      "st": "7980",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "8280",
+      "sc": "8280",
+      "st": "8280",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "9180",
+      "sc": "9180",
+      "st": "9180",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "10816",
+      "sc": "10816",
+      "st": "10816",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "10816",
+      "sc": "10816",
+      "st": "10816",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "11566",
+      "sc": "11566",
+      "st": "11566",
+      "pwd": "45"
+    },
+    {
+      "program": "B.SC. (Hons.) Chemistry",
+      "urobcminority": "11516",
+      "sc": "11516",
+      "st": "11516",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "11616",
+      "sc": "11616",
+      "st": "11616",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "11316",
+      "sc": "11316",
+      "st": "11316",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "11566",
+      "sc": "11566",
+      "st": "11566",
+      "pwd": "45"
+    }
+  ],
+  "DU Fees for Zakir Husain Delhi College (Evening)": [
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    },
+    {
+      "program": "B.A. (Hons.) Persian",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    },
+    {
+      "program": "B.A. (Hons.) Urdu",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "7109",
+      "sc": "6624",
+      "st": "6624",
+      "pwd": "99"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "6909",
+      "sc": "6424",
+      "st": "6424",
+      "pwd": "99"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "6309",
+      "sc": "5824",
+      "st": "5824",
+      "pwd": "99"
+    }
+  ],
+  "DU 2022 Fees for Daulat Ram College (W)": [
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "15380",
+      "sc": "15380",
+      "st": "15380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "15380",
+      "sc": "15380",
+      "st": "15380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "15380",
+      "sc": "15380",
+      "st": "15380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "15380",
+      "sc": "15380",
+      "st": "15380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "15380",
+      "sc": "15380",
+      "st": "15380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "15380",
+      "sc": "15380",
+      "st": "15380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "16780",
+      "sc": "16780",
+      "st": "16780",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "15380",
+      "sc": "15380",
+      "st": "15380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. (Hons.) Music",
+      "urobcminority": "15120",
+      "sc": "15120",
+      "st": "15120",
+      "pwd": ""
+    },
+    {
+      "program": "B.Sc. (Hons.) Biochemistry",
+      "urobcminority": "18370",
+      "sc": "18370",
+      "st": "18370",
+      "pwd": "1355"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "18430",
+      "sc": "18430",
+      "st": "18430",
+      "pwd": "1355"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "18370",
+      "sc": "18370",
+      "st": "18370",
+      "pwd": "1355"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "18430",
+      "sc": "18430",
+      "st": "18430",
+      "pwd": "1355"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "17860",
+      "sc": "17860",
+      "st": "17860",
+      "pwd": "1355"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "17460",
+      "sc": "17460",
+      "st": "17460",
+      "pwd": "1355"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "17470",
+      "sc": "17470",
+      "st": "17470",
+      "pwd": "1355"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "16380",
+      "sc": "16380",
+      "st": "16380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "16380",
+      "sc": "16380",
+      "st": "16380",
+      "pwd": "1155"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "16980",
+      "sc": "16980",
+      "st": "16980",
+      "pwd": "1155"
+    }
+  ],
+  "DU Fee Structure 2022 for Hans Raj College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "19915",
+      "sc": "19915",
+      "st": "19915",
+      "pwd": "775"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "20315",
+      "sc": "20315",
+      "st": "20315",
+      "pwd": "775"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "20315",
+      "sc": "20315",
+      "st": "20315",
+      "pwd": "775"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "20315",
+      "sc": "20315",
+      "st": "20315",
+      "pwd": "775"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "20315",
+      "sc": "20315",
+      "st": "20315",
+      "pwd": "775"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "20315",
+      "sc": "20315",
+      "st": "20315",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "20315",
+      "sc": "20315",
+      "st": "20315",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "23615",
+      "sc": "23615",
+      "st": "23615",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "23415",
+      "sc": "23415",
+      "st": "23415",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "23415",
+      "sc": "23415",
+      "st": "23415",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Anthropology",
+      "urobcminority": "23615",
+      "sc": "23615",
+      "st": "23615",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "23615",
+      "sc": "23615",
+      "st": "23615",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "23415",
+      "sc": "23415",
+      "st": "23415",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "45840",
+      "sc": "45840",
+      "st": "45840",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "23615",
+      "sc": "23615",
+      "st": "23615",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Geology",
+      "urobcminority": "23615",
+      "sc": "23615",
+      "st": "23615",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "23215",
+      "sc": "23215",
+      "st": "23215",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "23215",
+      "sc": "23215",
+      "st": "23215",
+      "pwd": "775"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "23615",
+      "sc": "23615",
+      "st": "23615",
+      "pwd": "775"
+    }
+  ],
+  "DU 2022 Fees for Hindu College": [
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. (Hons.) Music",
+      "urobcminority": "14820",
+      "sc": "14820",
+      "st": "14820",
+      "pwd": "225"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "14790",
+      "sc": "14790",
+      "st": "14790",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "15490",
+      "sc": "15490",
+      "st": "15490",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "16590",
+      "sc": "16590",
+      "st": "16590",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "16590",
+      "sc": "16590",
+      "st": "16590",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "16590",
+      "sc": "16590",
+      "st": "16590",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "16590",
+      "sc": "16590",
+      "st": "16590",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "15390",
+      "sc": "15390",
+      "st": "15390",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "15690",
+      "sc": "15690",
+      "st": "15690",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Electronics",
+      "urobcminority": "16590",
+      "sc": "16590",
+      "st": "16590",
+      "pwd": "225"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "16590",
+      "sc": "16590",
+      "st": "16590",
+      "pwd": "225"
+    }
+  ],
+  "DU 2022 Fee for Kirori Mal College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "9170",
+      "sc": "8985",
+      "st": "8985",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "9220",
+      "sc": "9035",
+      "st": "9035",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "9120",
+      "sc": "8935",
+      "st": "8935",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "10720",
+      "sc": "10535",
+      "st": "10535",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "9120",
+      "sc": "8935",
+      "st": "8935",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "9120",
+      "sc": "8935",
+      "st": "8935",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "9120",
+      "sc": "8935",
+      "st": "8935",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "9120",
+      "sc": "8935",
+      "st": "8935",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Urdu",
+      "urobcminority": "9220",
+      "sc": "9035",
+      "st": "9035",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10520",
+      "sc": "10335",
+      "st": "10335",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "9170",
+      "sc": "8985",
+      "st": "8985",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Applied Physical Sciences with AnalyticalMethods in Chemistry & Biochemistry",
+      "urobcminority": "11470",
+      "sc": "11485",
+      "st": "11485",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "11470",
+      "sc": "11285",
+      "st": "11285",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "11970",
+      "sc": "11785",
+      "st": "11785",
+      "pwd": "125"
+    },
+    {
+      "program": "B.SC. (Hons.) Chemistry",
+      "urobcminority": "11770",
+      "sc": "11585",
+      "st": "11585",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "11670",
+      "sc": "11485",
+      "st": "11485",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "10770",
+      "sc": "10585",
+      "st": "10585",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "11470",
+      "sc": "11285",
+      "st": "11285",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "11470",
+      "sc": "11285",
+      "st": "11285",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "11370",
+      "sc": "11285",
+      "st": "11285",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "10970",
+      "sc": "10785",
+      "st": "10785",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "11970",
+      "sc": "11785",
+      "st": "11785",
+      "pwd": "125"
+    }
+  ],
+  "DU 2022 Fee Structure for Lady Shri Ram College for Women (W)": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "19870",
+      "sc": "19870",
+      "st": "19870",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "16470",
+      "sc": "16470",
+      "st": "16470",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "18370",
+      "sc": "18370",
+      "st": "18370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. (Hons.) Journalism",
+      "urobcminority": "25370",
+      "sc": "25370",
+      "st": "25370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "19870",
+      "sc": "19870",
+      "st": "19870",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "20170",
+      "sc": "20170",
+      "st": "20170",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "15370",
+      "sc": "15370",
+      "st": "15370",
+      "pwd": "1550"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "19030",
+      "sc": "19030",
+      "st": "19030",
+      "pwd": "1550"
+    }
+  ],
+  "DU 2022 Fees for Ramjas College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Music",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "10395",
+      "sc": "10395",
+      "st": "10395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "11395",
+      "sc": "11395",
+      "st": "11395",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Electronics",
+      "urobcminority": "NA",
+      "sc": "11510",
+      "st": "11510",
+      "pwd": "11510"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "NA",
+      "sc": "11510",
+      "st": "11510",
+      "pwd": "11510"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "11510",
+      "sc": "11510",
+      "st": "11510",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "11510",
+      "sc": "11510",
+      "st": "11510",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "12510",
+      "sc": "12510",
+      "st": "12510",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "125"
+    }
+  ],
+  "DU Fees 2022 for Lady Irwin College (W)": [
+    {
+      "program": "B.Sc. (Hons.) Home Science",
+      "urobcminority": "26025",
+      "sc": "26025",
+      "st": "26025",
+      "pwd": "2255"
+    },
+    {
+      "program": "B.Sc. (Pass) Home Science",
+      "urobcminority": "26025",
+      "sc": "26025",
+      "st": "26025",
+      "pwd": "2255"
+    },
+    {
+      "program": "B.Sc. (Hons.) Food Technology",
+      "urobcminority": "26025",
+      "sc": "26025",
+      "st": "26025",
+      "pwd": "2255"
+    }
+  ],
+  "DU 2022 Fees for Deshbandhu College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10196",
+      "sc": "10196",
+      "st": "10196",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biochemistry",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    },
+    {
+      "program": "B.Sc. Applied Physical Sciences with Industrial Chemistry",
+      "urobcminority": "12250",
+      "sc": "12250",
+      "st": "12250",
+      "pwd": "45"
+    }
+  ],
+  "DU Fees 2022 for Dyal Singh College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "12905",
+      "sc": "12905",
+      "st": "12905",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "13005",
+      "sc": "13005",
+      "st": "13005",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "13005",
+      "sc": "13005",
+      "st": "13005",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "13005",
+      "sc": "13005",
+      "st": "13005",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "13105",
+      "sc": "13105",
+      "st": "13105",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "14705",
+      "sc": "14705",
+      "st": "14705",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "13105",
+      "sc": "13105",
+      "st": "13105",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "13505",
+      "sc": "13505",
+      "st": "13505",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "13705",
+      "sc": "13705",
+      "st": "13705",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "14560",
+      "sc": "14560",
+      "st": "14560",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "16460",
+      "sc": "16460",
+      "st": "16460",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "15860",
+      "sc": "15860",
+      "st": "15860",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "15960",
+      "sc": "15960",
+      "st": "15960",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "16260",
+      "sc": "16260",
+      "st": "16260",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "15560",
+      "sc": "15560",
+      "st": "15560",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "14760",
+      "sc": "14760",
+      "st": "14760",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "15860",
+      "sc": "15860",
+      "st": "15860",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "15900",
+      "sc": "15900",
+      "st": "15900",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "13005",
+      "sc": "13005",
+      "st": "13005",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Punjabi",
+      "urobcminority": "13005",
+      "sc": "13005",
+      "st": "13005",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Urdu",
+      "urobcminority": "13005",
+      "sc": "13005",
+      "st": "13005",
+      "pwd": "1070"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "13005",
+      "sc": "13005",
+      "st": "13005",
+      "pwd": "1070"
+    }
+  ],
+  "DU Fee Structure for Dyal Singh College (Evening)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "1110"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "1110"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "1110"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "1110"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "13400",
+      "sc": "13400",
+      "st": "13400",
+      "pwd": "1110"
+    }
+  ],
+  "DU Fees 2022 for Deen Dayal Upadhyaya College": [
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "15610",
+      "sc": "15610",
+      "st": "15610",
+      "pwd": "1730"
+    },
+    {
+      "program": "Bachelor of Management (B.M.S.)",
+      "urobcminority": "18610",
+      "sc": "18610",
+      "st": "18610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "30610",
+      "sc": "30610",
+      "st": "30610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. Mathematical Sciences",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "14610",
+      "sc": "14610",
+      "st": "14610",
+      "pwd": "1730"
+    }
+  ],
+  "DU 2022 Fee for Gargi College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "9075",
+      "sc": "9075",
+      "st": "9075",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Applied Psychology",
+      "urobcminority": "10975",
+      "sc": "10975",
+      "st": "10975",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "9075",
+      "sc": "9075",
+      "st": "9075",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "9075",
+      "sc": "9075",
+      "st": "9075",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "9075",
+      "sc": "9075",
+      "st": "9075",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "9075",
+      "sc": "9075",
+      "st": "9075",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "9075",
+      "sc": "9075",
+      "st": "9075",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "9075",
+      "sc": "9075",
+      "st": "9075",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "9275",
+      "sc": "9275",
+      "st": "9275",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "9275",
+      "sc": "9275",
+      "st": "9275",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "10525",
+      "sc": "10525",
+      "st": "10525",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "10425",
+      "sc": "10425",
+      "st": "10425",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. (Hons.) Microbiology",
+      "urobcminority": "11825",
+      "sc": "11825",
+      "st": "11825",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "9875",
+      "sc": "9875",
+      "st": "9875",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "10125",
+      "sc": "10125",
+      "st": "10125",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "10525",
+      "sc": "10525",
+      "st": "10525",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "10525",
+      "sc": "10525",
+      "st": "10525",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "10125",
+      "sc": "10125",
+      "st": "10125",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "9875",
+      "sc": "9875",
+      "st": "9875",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "26875",
+      "sc": "26875",
+      "st": "26875",
+      "pwd": "26875"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "12915",
+      "sc": "12915",
+      "st": "12915",
+      "pwd": "20"
+    }
+  ],
+  "DU Fees for Acharya Narendra Dev College (UG Programmes)": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biomedical Science",
+      "urobcminority": "18810",
+      "sc": "18810",
+      "st": "18810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "22810",
+      "sc": "22810",
+      "st": "22810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Electronics",
+      "urobcminority": "7810",
+      "sc": "7810",
+      "st": "7810",
+      "pwd": "2505"
+    }
+  ],
+  "DU Fee for Aditi Mahavidyalaya (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "4160",
+      "sc": "4160",
+      "st": "4160",
+      "pwd": "405"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "5660",
+      "sc": "5660",
+      "st": "5660",
+      "pwd": "405"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi Patrakarita",
+      "urobcminority": "7310",
+      "sc": "7310",
+      "st": "7310",
+      "pwd": "405"
+    },
+    {
+      "program": "B.A. (Hons.) Social Work",
+      "urobcminority": "5710",
+      "sc": "5710",
+      "st": "5710",
+      "pwd": "405"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "5660",
+      "sc": "5660",
+      "st": "5660",
+      "pwd": "405"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "5160",
+      "sc": "5160",
+      "st": "5160",
+      "pwd": "405"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "5710",
+      "sc": "5710",
+      "st": "5710",
+      "pwd": "405"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "8710",
+      "sc": "8710",
+      "st": "8710",
+      "pwd": "405"
+    }
+  ],
+  "DU Fees 2022 for Aryabhatta College": [
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "25950",
+      "sc": "25950",
+      "st": "25950",
+      "pwd": "804"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "12650",
+      "sc": "12650",
+      "st": "12650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10650",
+      "sc": "10650",
+      "st": "10650",
+      "pwd": "804"
+    },
+    {
+      "program": "Bachelor of Management Studies (B.M.S.)",
+      "urobcminority": "21770",
+      "sc": "21770",
+      "st": "21770",
+      "pwd": "804"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "24870",
+      "sc": "24870",
+      "st": "24870",
+      "pwd": "804"
+    }
+  ],
+  "DU Fee Structure for Atma Ram Sanatan Dharma College": [
+    {
+      "program": "B.Com.",
+      "urobcminority": "10285",
+      "sc": "10285",
+      "st": "10285",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "11685",
+      "sc": "11685",
+      "st": "11685",
+      "pwd": "375"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10285",
+      "sc": "10285",
+      "st": "10285",
+      "pwd": "375"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10485",
+      "sc": "10485",
+      "st": "10485",
+      "pwd": "375"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10485",
+      "sc": "10485",
+      "st": "10485",
+      "pwd": "375"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10485",
+      "sc": "10485",
+      "st": "10485",
+      "pwd": "375"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10485",
+      "sc": "10485",
+      "st": "10485",
+      "pwd": "375"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10485",
+      "sc": "10485",
+      "st": "10485",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "11575",
+      "sc": "11575",
+      "st": "11575",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "11575",
+      "sc": "11575",
+      "st": "11575",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "11575",
+      "sc": "11575",
+      "st": "11575",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "11575",
+      "sc": "11575",
+      "st": "11575",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "50000",
+      "sc": "50000",
+      "st": "50000",
+      "pwd": "38200"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "12845",
+      "sc": "12845",
+      "st": "12845",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Electronics",
+      "urobcminority": "12845",
+      "sc": "12845",
+      "st": "12845",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "12845",
+      "sc": "12845",
+      "st": "12845",
+      "pwd": "375"
+    },
+    {
+      "program": "B.Sc. Applied Physical Sciences with Industrial Chemistry",
+      "urobcminority": "12845",
+      "sc": "12845",
+      "st": "12845",
+      "pwd": "375"
+    }
+  ],
+  "DU Fees 2022 for Bhagini Nivedita College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "6060",
+      "sc": "6060",
+      "st": "6060",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "5260",
+      "sc": "5260",
+      "st": "5260",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "5260",
+      "sc": "5260",
+      "st": "5260",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "5260",
+      "sc": "5260",
+      "st": "5260",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "6760",
+      "sc": "6760",
+      "st": "6760",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Home Science",
+      "urobcminority": "6060",
+      "sc": "6060",
+      "st": "6060",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "6760",
+      "sc": "6760",
+      "st": "6760",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "6760",
+      "sc": "6760",
+      "st": "6760",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "5260",
+      "sc": "5260",
+      "st": "5260",
+      "pwd": "170"
+    }
+  ],
+  "DU Fees for Bharati College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "1075"
+    },
+    {
+      "program": "B.A. (Hons.) Journalism",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "10465"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "10465"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "11665",
+      "sc": "11665",
+      "st": "11665",
+      "pwd": "11665"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "10465",
+      "sc": "10465",
+      "st": "10465",
+      "pwd": "10465"
+    }
+  ],
+  "DU Fee 2022 for Bhaskaracharya College of Applied Sciences": [
+    {
+      "program": "B.Sc. (Hons.) Biomedical Science",
+      "urobcminority": "22520",
+      "sc": "22520",
+      "st": "22520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "27520",
+      "sc": "27520",
+      "st": "27520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Food Technology",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Instrumentation",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Microbiology",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Polymer Science",
+      "urobcminority": "22520",
+      "sc": "22520",
+      "st": "22520",
+      "pwd": "8910"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "12520",
+      "sc": "12520",
+      "st": "12520",
+      "pwd": "8910"
+    }
+  ],
+  "DU 2022 Fees for Dr. Bhim Rao Ambedkar College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10715",
+      "sc": "10715",
+      "st": "10715",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Applied Psychology",
+      "urobcminority": "12895",
+      "sc": "12895",
+      "st": "12895",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "11245",
+      "sc": "11245",
+      "st": "11245",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi Patrakarita",
+      "urobcminority": "12765",
+      "sc": "12765",
+      "st": "12765",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10365",
+      "sc": "10365",
+      "st": "10365",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Social Work",
+      "urobcminority": "13075",
+      "sc": "13075",
+      "st": "13075",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "10815",
+      "sc": "10815",
+      "st": "10815",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "11915",
+      "sc": "11915",
+      "st": "11915",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10265",
+      "sc": "10265",
+      "st": "10265",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10265",
+      "sc": "10265",
+      "st": "10265",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "24575",
+      "sc": "24575",
+      "st": "24575",
+      "pwd": "55"
+    }
+  ],
+  "DU Fee Structure 2022 for College of Vocational Studies": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "34250",
+      "sc": "34250",
+      "st": "34250",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "25000",
+      "sc": "25000",
+      "st": "25000",
+      "pwd": "75"
+    },
+    {
+      "program": "Bachelor of Management Studies (B.M.S.)",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Voc.) Office Management & Secretarial Practice",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Voc.) Marketing Management & Retail Business",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Voc.) Human",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "Resource Management",
+      "urobcminority": "",
+      "sc": "",
+      "st": "",
+      "pwd": ""
+    },
+    {
+      "program": "B.A. (Voc.) Small & Medium Enterprises",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Voc.) Management & Marketing of Insurance",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Voc.) Material Management",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Voc.) Tourism Management",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "75"
+    }
+  ],
+  "DU Fees 2022 for Department of Germanic and Romance Studies": [
+    {
+      "program": "B.A. (Hons.) French",
+      "urobcminority": "3046",
+      "sc": "3046",
+      "st": "3046",
+      "pwd": "16"
+    },
+    {
+      "program": "B.A. (Hons.) German",
+      "urobcminority": "3046",
+      "sc": "3046",
+      "st": "3046",
+      "pwd": "16"
+    },
+    {
+      "program": "B.A. (Hons.) Italian",
+      "urobcminority": "3046",
+      "sc": "3046",
+      "st": "3046",
+      "pwd": "16"
+    },
+    {
+      "program": "B.A. (Hons.) Spanish",
+      "urobcminority": "3046",
+      "sc": "3046",
+      "st": "3046",
+      "pwd": "16"
+    }
+  ],
+  "DU 2022 Fees for Indraprastha College for Women (W)": [
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "29100",
+      "sc": "29100",
+      "st": "29100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "25100",
+      "sc": "25100",
+      "st": "25100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "42600",
+      "sc": "42600",
+      "st": "42600",
+      "pwd": "5"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "25100",
+      "sc": "25100",
+      "st": "25100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "26660",
+      "sc": "26660",
+      "st": "26660",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "28600",
+      "sc": "28600",
+      "st": "28600",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A (Hons) Music",
+      "urobcminority": "21100",
+      "sc": "21100",
+      "st": "21100",
+      "pwd": "5"
+    },
+    {
+      "program": "B.A (Hons) Multi Media & Mass Commiunication",
+      "urobcminority": "82000",
+      "sc": "82000",
+      "st": "82000",
+      "pwd": "5"
+    }
+  ],
+  "DU Fee Structure for Institute of Home Economics (W)": [
+    {
+      "program": "B.Sc. (Pass) Home Science",
+      "urobcminority": "19675",
+      "sc": "19675",
+      "st": "19675",
+      "pwd": "255"
+    },
+    {
+      "program": "B.Sc. (Hons.) Home Science",
+      "urobcminority": "19675",
+      "sc": "19675",
+      "st": "19675",
+      "pwd": "255"
+    },
+    {
+      "program": "B.Sc. (Hons.) Microbiology",
+      "urobcminority": "19675",
+      "sc": "19675",
+      "st": "19675",
+      "pwd": "255"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biochemistry",
+      "urobcminority": "19675",
+      "sc": "19675",
+      "st": "19675",
+      "pwd": "255"
+    },
+    {
+      "program": "B.A. (Hons.) Journalism",
+      "urobcminority": "21895",
+      "sc": "21895",
+      "st": "21895",
+      "pwd": "255"
+    },
+    {
+      "program": "B.Sc. (Hons.) Food Technology",
+      "urobcminority": "21895",
+      "sc": "21895",
+      "st": "21895",
+      "pwd": "255"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "21035",
+      "sc": "21035",
+      "st": "21035",
+      "pwd": "255"
+    }
+  ],
+  "DU Fees 2022 for Janki Devi Memorial College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "10695",
+      "sc": "10695",
+      "st": "10695",
+      "pwd": "605"
+    }
+  ],
+  "DU 2022 Fees for Jesus & Mary College (W)": [
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "13590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "13590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "13590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "13590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "13590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "14190",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "13590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "13590/14590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "13790",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "14590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "14590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "18440",
+      "sc": "",
+      "st": "",
+      "pwd": "50"
+    },
+    {
+      "program": "B.Voc. Retail Management & IT",
+      "urobcminority": "14590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    },
+    {
+      "program": "B.Voc. Health Care Management",
+      "urobcminority": "14590",
+      "sc": "0",
+      "st": "0",
+      "pwd": "50"
+    }
+  ],
+  "DU Fees for Kalindi College (W)": [
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "13297",
+      "sc": "13297",
+      "st": "13297",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "13297",
+      "sc": "13297",
+      "st": "13297",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Journalism",
+      "urobcminority": "21747",
+      "sc": "21747",
+      "st": "21747",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "13297",
+      "sc": "13297",
+      "st": "13297",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "12997",
+      "sc": "12997",
+      "st": "12997",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "29247",
+      "sc": "29247",
+      "st": "29247",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "13297",
+      "sc": "13297",
+      "st": "13297",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "13297",
+      "sc": "13297",
+      "st": "13297",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Voc. Printing Technology",
+      "urobcminority": "15747",
+      "sc": "15747",
+      "st": "15747",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Voc. Web Designing",
+      "urobcminority": "15747",
+      "sc": "15747",
+      "st": "15747",
+      "pwd": "105"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "9197",
+      "sc": "9197",
+      "st": "9197",
+      "pwd": "105"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "13297",
+      "sc": "13297",
+      "st": "13297",
+      "pwd": "105"
+    }
+  ],
+  "DU 2022 Fees for Kamala Nehru College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "13100",
+      "sc": "13100",
+      "st": "13100",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Journalism",
+      "urobcminority": "18700",
+      "sc": "18700",
+      "st": "18700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "11100",
+      "sc": "11100",
+      "st": "11100",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "11600",
+      "sc": "11600",
+      "st": "11600",
+      "pwd": "0"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "10100",
+      "sc": "10100",
+      "st": "10100",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "0"
+    }
+  ],
+  "DU Fee Structure 2022 for Keshav Mahavidyalaya": [
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "9086",
+      "sc": "9086",
+      "st": "9086",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "9086",
+      "sc": "9086",
+      "st": "9086",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Mathematical Sciences",
+      "urobcminority": "9086",
+      "sc": "9086",
+      "st": "9086",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "23906",
+      "sc": "23906",
+      "st": "23906",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "9086",
+      "sc": "9086",
+      "st": "9086",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "9086",
+      "sc": "9086",
+      "st": "9086",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "9086",
+      "sc": "9086",
+      "st": "9086",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "9086",
+      "sc": "9086",
+      "st": "9086",
+      "pwd": "55"
+    },
+    {
+      "program": "Bachelor of Management Studies (B.M.S.)",
+      "urobcminority": "14586",
+      "sc": "14586",
+      "st": "14586",
+      "pwd": "55"
+    }
+  ],
+  "Delhi University Fees for Lakshmibai College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "9405",
+      "sc": "9405",
+      "st": "9405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "8405",
+      "sc": "8405",
+      "st": "8405",
+      "pwd": "145"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "22005",
+      "sc": "22005",
+      "st": "22005",
+      "pwd": "145"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "9705",
+      "sc": "9705",
+      "st": "9705",
+      "pwd": "145"
+    }
+  ],
+  "DU Fees for Maharaja Agrasen College": [
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "11000",
+      "sc": "11000",
+      "st": "11000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "11000",
+      "sc": "11000",
+      "st": "11000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Journalism",
+      "urobcminority": "15000",
+      "sc": "15000",
+      "st": "15000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "11000",
+      "sc": "11000",
+      "st": "11000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "11000",
+      "sc": "11000",
+      "st": "11000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "12000",
+      "sc": "12000",
+      "st": "12000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Mathematical Sciences",
+      "urobcminority": "12000",
+      "sc": "12000",
+      "st": "12000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "16000",
+      "sc": "16000",
+      "st": "16000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "15000",
+      "sc": "15000",
+      "st": "15000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "15000",
+      "sc": "15000",
+      "st": "15000",
+      "pwd": "55"
+    },
+    {
+      "program": "Advance Diploma in TVProgramme & News Production",
+      "urobcminority": "11000",
+      "sc": "11000",
+      "st": "11000",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "16000",
+      "sc": "16000",
+      "st": "16000",
+      "pwd": "55"
+    }
+  ],
+  "DU 2022 Fee Structure for Maitreyi College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "5105",
+      "sc": "5105",
+      "st": "5105",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "6005",
+      "sc": "6005",
+      "st": "6005",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "7415",
+      "sc": "7415",
+      "st": "7415",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "6515",
+      "sc": "6515",
+      "st": "6515",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "6515",
+      "sc": "6515",
+      "st": "6515",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "6515",
+      "sc": "6515",
+      "st": "6515",
+      "pwd": "155"
+    },
+    {
+      "program": "B.SC. (Hons.) Chemistry",
+      "urobcminority": "6515",
+      "sc": "6515",
+      "st": "6515",
+      "pwd": "155"
+    },
+    {
+      "program": "B.SC. (Hons.) Mathematics",
+      "urobcminority": "6515",
+      "sc": "6515",
+      "st": "6515",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "6515",
+      "sc": "6515",
+      "st": "6515",
+      "pwd": "155"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "6515",
+      "sc": "6515",
+      "st": "6515",
+      "pwd": "155"
+    }
+  ],
+  "DU Fee Structure for Mata Sundri College for Women (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "17585",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "17585",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "17785",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "17585",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "17585",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "17585",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "19385",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Punjabi",
+      "urobcminority": "5935",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "5935",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "18935",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "18785",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "18985",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "24100",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "19235",
+      "sc": "0",
+      "st": "0",
+      "pwd": "55"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "21375",
+      "sc": "",
+      "st": "",
+      "pwd": "55"
+    }
+  ],
+  "DU 2022 Fee for Miranda House (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "17080",
+      "sc": "17080",
+      "st": "17080",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Bengali",
+      "urobcminority": "14160",
+      "sc": "14160",
+      "st": "14160",
+      "pwd": "76"
+    },
+    {
+      "program": "B.A. (Hons.) Music",
+      "urobcminority": "14560",
+      "sc": "14560",
+      "st": "14560",
+      "pwd": "76"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "19490",
+      "sc": "19490",
+      "st": "19490",
+      "pwd": "76"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "18590",
+      "sc": "18590",
+      "st": "18590",
+      "pwd": "76"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "19200",
+      "sc": "19200",
+      "st": "19200",
+      "pwd": "76"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "19600",
+      "sc": "19600",
+      "st": "19600",
+      "pwd": "76"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "19800",
+      "sc": "19800",
+      "st": "19800",
+      "pwd": "76"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "19800",
+      "sc": "19800",
+      "st": "19800",
+      "pwd": "76"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "17100",
+      "sc": "17100",
+      "st": "17100",
+      "pwd": "76"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "19000",
+      "sc": "19000",
+      "st": "19000",
+      "pwd": "76"
+    }
+  ],
+  "DU Fees for Motilal Nehru College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "5715",
+      "sc": "5715",
+      "st": "5715",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "5715",
+      "sc": "5715",
+      "st": "5715",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "5715",
+      "sc": "5715",
+      "st": "5715",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "6015",
+      "sc": "6015",
+      "st": "6015",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "4705",
+      "sc": "4705",
+      "st": "4705",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "5715",
+      "sc": "5715",
+      "st": "5715",
+      "pwd": "40"
+    }
+  ],
+  "DU 2022 Fee Structure for Motilal Nehru College (Evening)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "6305",
+      "sc": "6305",
+      "st": "6305",
+      "pwd": "300"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "6305",
+      "sc": "6305",
+      "st": "6305",
+      "pwd": "300"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "6305",
+      "sc": "6305",
+      "st": "6305",
+      "pwd": "300"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "6305",
+      "sc": "6305",
+      "st": "6305",
+      "pwd": "300"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "6305",
+      "sc": "6305",
+      "st": "6305",
+      "pwd": "300"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "6305",
+      "sc": "6305",
+      "st": "6305",
+      "pwd": "300"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "6305",
+      "sc": "6305",
+      "st": "6305",
+      "pwd": "300"
+    }
+  ],
+  "DU Fees for P.G.D.A.V. College": [
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "40200",
+      "sc": "40200",
+      "st": "40200",
+      "pwd": "40200"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.Sc. Mathematical Sciences",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "13700",
+      "sc": "13700",
+      "st": "13700",
+      "pwd": "1135"
+    }
+  ],
+  "DU Fee for P.G.D.A.V. College (Evening)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "14315",
+      "sc": "14315",
+      "st": "14315",
+      "pwd": "1325"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "15715",
+      "sc": "15715",
+      "st": "15715",
+      "pwd": "1325"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "15715",
+      "sc": "15715",
+      "st": "15715",
+      "pwd": "1325"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "14315",
+      "sc": "14315",
+      "st": "14315",
+      "pwd": "1325"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "14315",
+      "sc": "14315",
+      "st": "14315",
+      "pwd": "1325"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "15715",
+      "sc": "15715",
+      "st": "15715",
+      "pwd": "1325"
+    }
+  ],
+  "DU 2022 Fees for Rajdhani College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "10970",
+      "sc": "10970",
+      "st": "10970",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "10970",
+      "sc": "10970",
+      "st": "10970",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "10970",
+      "sc": "10970",
+      "st": "10970",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "10150",
+      "sc": "10150",
+      "st": "10150",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "10970",
+      "sc": "10970",
+      "st": "10970",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "10970",
+      "sc": "10970",
+      "st": "10970",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Electronics",
+      "urobcminority": "10970",
+      "sc": "10970",
+      "st": "10970",
+      "pwd": "55"
+    },
+    {
+      "program": "B.Sc. Applied Physical Sciences with Industrial Chemistry",
+      "urobcminority": "10970",
+      "sc": "10970",
+      "st": "10970",
+      "pwd": "55"
+    }
+  ],
+  "DU Fee Structure 2022 for Ram Lal Anand College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "9000",
+      "sc": "8855",
+      "st": "8815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "9000",
+      "sc": "8815",
+      "st": "8815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "9000",
+      "sc": "8815",
+      "st": "8815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi Patrakarita",
+      "urobcminority": "26500",
+      "sc": "26315",
+      "st": "26315",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "9000",
+      "sc": "8815",
+      "st": "8815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "9000",
+      "sc": "8815",
+      "st": "8815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "12000",
+      "sc": "11815",
+      "st": "11815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "12000",
+      "sc": "11815",
+      "st": "11815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "49240",
+      "sc": "49055",
+      "st": "49055",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Geology",
+      "urobcminority": "21000",
+      "sc": "20815",
+      "st": "20815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Microbiology",
+      "urobcminority": "13000",
+      "sc": "12815",
+      "st": "12815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "13000",
+      "sc": "12815",
+      "st": "12815",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "13000",
+      "sc": "12815",
+      "st": "12815",
+      "pwd": "75"
+    },
+    {
+      "program": "Bachelor in Management Studies (B.M.S.)",
+      "urobcminority": "22570",
+      "sc": "22385",
+      "st": "22385",
+      "pwd": "75"
+    }
+  ],
+  "DU Fee Structure for Ramanujan College": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "17240",
+      "sc": "16240",
+      "st": "16240",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "17240",
+      "sc": "16240",
+      "st": "16240",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "22740",
+      "sc": "21740",
+      "st": "21740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Applied Psychology",
+      "urobcminority": "17240",
+      "sc": "16240",
+      "st": "16240",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "14740",
+      "sc": "13740",
+      "st": "13740",
+      "pwd": "170"
+    },
+    {
+      "program": "Bachelor in Management Studies (B.M.S.)",
+      "urobcminority": "21770",
+      "sc": "21585",
+      "st": "21585",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Voc. Banking Operations",
+      "urobcminority": "20740",
+      "sc": "19740",
+      "st": "19740",
+      "pwd": "4800"
+    },
+    {
+      "program": "B.Voc. Software Development",
+      "urobcminority": "20740",
+      "sc": "19740",
+      "st": "19740",
+      "pwd": "4800"
+    }
+  ],
+  "DU Fees 2022 for Satyawati College": [
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Urdu",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "7480",
+      "sc": "7480",
+      "st": "7480",
+      "pwd": "40"
+    }
+  ],
+  "DU 2022 Fee Structure for Satyawati College (Evening)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "7075",
+      "sc": "6395",
+      "st": "6395",
+      "pwd": "40"
+    }
+  ],
+  "DU Fees for Shaheed Bhagat Singh College": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "7255",
+      "sc": "7255",
+      "st": "7255",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "7255",
+      "sc": "7255",
+      "st": "7255",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "5955",
+      "sc": "5955",
+      "st": "5955",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "5955",
+      "sc": "5955",
+      "st": "5955",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "6955",
+      "sc": "6955",
+      "st": "6955",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "7355",
+      "sc": "7355",
+      "st": "7355",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "5955",
+      "sc": "5955",
+      "st": "5955",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "6455",
+      "sc": "6455",
+      "st": "6455",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "5955",
+      "sc": "5955",
+      "st": "5955",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "5955",
+      "sc": "5955",
+      "st": "5955",
+      "pwd": "75"
+    }
+  ],
+  "DU 2022 Fees for Shaheed Bhagat Singh College (Evening)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "5250",
+      "sc": "5250",
+      "st": "5250",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "6350",
+      "sc": "6350",
+      "st": "6350",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "5250",
+      "sc": "5250",
+      "st": "5250",
+      "pwd": "0"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "5950",
+      "sc": "5950",
+      "st": "5950",
+      "pwd": "0"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "5950",
+      "sc": "5950",
+      "st": "5950",
+      "pwd": "0"
+    }
+  ],
+  "DU Fee Structure for Shaheed Rajguru College of Applied Sciences for Women (W)": [
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Instrumentation",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Food Technology",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "25620",
+      "sc": "25440",
+      "st": "25440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biomedical Science",
+      "urobcminority": "20620",
+      "sc": "20440",
+      "st": "20440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.A. (Hons.) Psychology",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Microbiology",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    },
+    {
+      "program": "Bachelor of Business Administration (FinancialInvestment Analysis) (BBA(FIA)",
+      "urobcminority": "21620",
+      "sc": "21620",
+      "st": "21620",
+      "pwd": "1490"
+    },
+    {
+      "program": "Bachelor of Management Studies (B.M.S.)",
+      "urobcminority": "10620",
+      "sc": "10620",
+      "st": "10620",
+      "pwd": "1490"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biochemistry",
+      "urobcminority": "10620",
+      "sc": "10440",
+      "st": "10440",
+      "pwd": "1490"
+    }
+  ],
+  "DU Fee Structure 2022 for Shaheed Sukhdev College Business Studies": [
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "28525",
+      "sc": "28525",
+      "st": "28525",
+      "pwd": "3555"
+    },
+    {
+      "program": "Bachelor of Management Studies (B.M.S.)",
+      "urobcminority": "14535",
+      "sc": "14535",
+      "st": "14535",
+      "pwd": "3555"
+    },
+    {
+      "program": "Bachelor of Business Administration (Financial Investment Analysis)(BBA(FIA)",
+      "urobcminority": "25535",
+      "sc": "25535",
+      "st": "25535",
+      "pwd": "3555"
+    }
+  ],
+  "DU Seats 2022 for Shivaji College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "16650",
+      "sc": "16650",
+      "st": "16650",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "16650",
+      "sc": "16650",
+      "st": "16650",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "16650",
+      "sc": "16650",
+      "st": "16650",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "19050",
+      "sc": "19050",
+      "st": "19050",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "16650",
+      "sc": "16650",
+      "st": "16650",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "16650",
+      "sc": "16650",
+      "st": "16650",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "16650",
+      "sc": "16650",
+      "st": "16650",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "16650",
+      "sc": "16650",
+      "st": "16650",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "16850",
+      "sc": "16850",
+      "st": "16850",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "17850",
+      "sc": "17850",
+      "st": "17850",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "20970",
+      "sc": "20970",
+      "st": "20970",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "20570",
+      "sc": "20570",
+      "st": "20570",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "20970",
+      "sc": "20970",
+      "st": "20970",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biochemistry",
+      "urobcminority": "21970",
+      "sc": "21970",
+      "st": "21970",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "20970",
+      "sc": "20970",
+      "st": "20970",
+      "pwd": "170"
+    },
+    {
+      "program": "B.SC. (Hons.) Chemistry",
+      "urobcminority": "20970",
+      "sc": "20970",
+      "st": "20970",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "20170",
+      "sc": "20170",
+      "st": "20170",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "20970",
+      "sc": "20970",
+      "st": "20970",
+      "pwd": "170"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "20970",
+      "sc": "20970",
+      "st": "20970",
+      "pwd": "170"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "34270",
+      "sc": "34270",
+      "st": "34270",
+      "pwd": "250"
+    }
+  ],
+  "DU Fee Structure for Shyam Lal College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "13780",
+      "sc": "13780",
+      "st": "13780",
+      "pwd": "90"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Electronics",
+      "urobcminority": "14480",
+      "sc": "14480",
+      "st": "14480",
+      "pwd": "90"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "14480",
+      "sc": "14480",
+      "st": "14480",
+      "pwd": "90"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "14480",
+      "sc": "14480",
+      "st": "14480",
+      "pwd": "90"
+    }
+  ],
+  "DU Fees for Shyam Lal College (Evening)": [
+    {
+      "program": "B.Com.",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "20"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "20"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "9700",
+      "sc": "9700",
+      "st": "9700",
+      "pwd": "20"
+    }
+  ],
+  "DU 2022 Fees for Shyama Prasad Mukherji College For Women (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) Applied Psychology",
+      "urobcminority": "4490",
+      "sc": "4490",
+      "st": "4490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "9185",
+      "sc": "9185",
+      "st": "9185",
+      "pwd": "35"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) Philosophy",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "3490",
+      "sc": "3490",
+      "st": "3490",
+      "pwd": "35"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "22310",
+      "sc": "22310",
+      "st": "22310",
+      "pwd": "22310"
+    },
+    {
+      "program": "B.El.Ed",
+      "urobcminority": "17035",
+      "sc": "17035",
+      "st": "17035",
+      "pwd": "35"
+    }
+  ],
+  "DU Seats 2022 for Sri Aurobindo College (Day)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "5880",
+      "sc": "5880",
+      "st": "5880",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "5880",
+      "sc": "5880",
+      "st": "5880",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "5880",
+      "sc": "5880",
+      "st": "5880",
+      "pwd": "75"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "5880",
+      "sc": "5880",
+      "st": "5880",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "5880",
+      "sc": "5880",
+      "st": "5880",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "5880",
+      "sc": "5880",
+      "st": "5880",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "8916",
+      "sc": "8916",
+      "st": "8916",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. Physical Sciences",
+      "urobcminority": "8916",
+      "sc": "8916",
+      "st": "8916",
+      "pwd": "75"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "8916",
+      "sc": "8916",
+      "st": "8916",
+      "pwd": "75"
+    }
+  ],
+  "DU 2022 Fee Structure for Sri Aurobindo College (Evening)": [
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "5733",
+      "sc": "5700",
+      "st": "5733",
+      "pwd": "1600"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "5733",
+      "sc": "5700",
+      "st": "5733",
+      "pwd": "1600"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "5733",
+      "sc": "5700",
+      "st": "5733",
+      "pwd": "1600"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "5833",
+      "sc": "5833",
+      "st": "5833",
+      "pwd": "1600"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "7233",
+      "sc": "7233",
+      "st": "7233",
+      "pwd": "1600"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "5733",
+      "sc": "5700",
+      "st": "5733",
+      "pwd": "1600"
+    },
+    {
+      "program": "B.A. (Hons.) Applied Psychology",
+      "urobcminority": "8133",
+      "sc": "8133",
+      "st": "8133",
+      "pwd": "1600"
+    }
+  ],
+  "DU Fees for Sri Guru Gobind Singh College of Commerce": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "24700",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "24700",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "24700",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "42700",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "41700",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "Bachelor of Management Studies (B.M.S.)",
+      "urobcminority": "41700",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Punjabi",
+      "urobcminority": "24700",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    }
+  ],
+  "DU Fee Structure 2022 for Sri Guru Nanak Dev Khalsa College": [
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Punjabi",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi Patrakarita",
+      "urobcminority": "32025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "14125"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "33045",
+      "sc": "",
+      "st": "",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "18025",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    }
+  ],
+  "DU 2022 Fee Structure for Sri Guru Tegh Bahadur Khalsa": [
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Punjabi",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Computer Science",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "0"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "18565",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.SC. (Hons.) Chemistry",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Chemistry",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Physical Sciences with Computer",
+      "urobcminority": "21615",
+      "sc": "",
+      "st": "",
+      "pwd": ""
+    },
+    {
+      "program": "B.A. (Hons.) Business Economics",
+      "urobcminority": "38615",
+      "sc": "",
+      "st": "",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "21615",
+      "sc": "0",
+      "st": "0",
+      "pwd": "125"
+    }
+  ],
+  "DU Fees 2022 for Sri Venketeswara College": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.A. (Hons.) Economics",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.A. (Hons.) Sociology",
+      "urobcminority": "11560",
+      "sc": "11560",
+      "st": "11560",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Chemistry",
+      "urobcminority": "13760",
+      "sc": "13760",
+      "st": "13760",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biological Science",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Biochemistry",
+      "urobcminority": "13760",
+      "sc": "13760",
+      "st": "13760",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Electronics",
+      "urobcminority": "13510",
+      "sc": "13510",
+      "st": "13510",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "12960",
+      "sc": "12960",
+      "st": "12960",
+      "pwd": "635"
+    },
+    {
+      "program": "B.Sc. (Hons.) Statistics",
+      "urobcminority": "12510",
+      "sc": "12510",
+      "st": "12510",
+      "pwd": "635"
+    }
+  ],
+  "DU 2022 Fees for Swami Shardhanand College": [
+    {
+      "program": "B.Sc. Life Sciences",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "10855",
+      "sc": "10855",
+      "st": "10855",
+      "pwd": "510"
+    },
+    {
+      "program": "B.A. (Hons.) Geography",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "10855",
+      "sc": "10855",
+      "st": "10855",
+      "pwd": "510"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "10855",
+      "sc": "10855",
+      "st": "10855",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "11855",
+      "sc": "11855",
+      "st": "11855",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "11855",
+      "sc": "11855",
+      "st": "11855",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Sc. Applied Life Sciences",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Sc. Physical Sciences",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Sc. (Hons.) Botany",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Sc. (Hons.) Microbiology",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Sc. (Hons.) Physics",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.SC. (Hons.) Chemistry",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    },
+    {
+      "program": "B.Sc. (Hons.) Zoology",
+      "urobcminority": "11955",
+      "sc": "11955",
+      "st": "11955",
+      "pwd": "510"
+    }
+  ],
+  "DU Fees for Vivekananda College (W)": [
+    {
+      "program": "B.A. Programme",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com.",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Com. (Hons.)",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Applied Psychology",
+      "urobcminority": "13400",
+      "sc": "13400",
+      "st": "13400",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) English",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Hindi",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Sanskrit",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) History",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.A. (Hons.) Political Science",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    },
+    {
+      "program": "B.Sc. (Hons.) Mathematics",
+      "urobcminority": "12900",
+      "sc": "12900",
+      "st": "12900",
+      "pwd": "125"
+    }
+  ],
+  "DU Fees 2022 for Cluster Innovation Centre": [
+    {
+      "program": "B.A. Honours (Humanities & Social Sciences)",
+      "urobcminority": "6000",
+      "sc": "6000",
+      "st": "6000",
+      "pwd": "0"
+    },
+    {
+      "program": "B.Tech. Information Technology and Mathematical Innovations (IT & MI)",
+      "urobcminority": "6000",
+      "sc": "6000",
+      "st": "6000",
+      "pwd": "0"
+    }
+  ],
+  "DU 2022 Fees for Indira Gandhi Institute of Physical Education and Sports Sciences": [
+    {
+      "program": "B.Sc. in Physical Education, Health Education & Sports (B.Sc.[P.E.H.E. & S.])",
+      "urobcminority": "8740",
+      "sc": "8740",
+      "st": "8740",
+      "pwd": "0"
+    }
+  ]
+}
