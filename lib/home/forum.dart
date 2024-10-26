@@ -11,11 +11,20 @@ class ForumPage extends StatefulWidget {
 
 class _ForumPageState extends State<ForumPage> {
   var selectedforum = false;
+  var isAdding = false;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text("Great forum"),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          setState(() {
+            selectedforum = false;
+          });
+        },
+        child: Icon(Icons.add),
       ),
       body: Row(
         children: [
@@ -42,9 +51,27 @@ class _ForumPageState extends State<ForumPage> {
                   ? Column(
                       children: [Text("How is the experience")],
                     )
-                  : Text("there is no forum"))
+                  : AddForumWidget())
         ],
       ),
     );
+  }
+}
+class AddForumWidget extends StatelessWidget {
+  const AddForumWidget({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+      Text('Title'),
+      TextField(),
+      SizedBox(height: 20),
+      Text('description'),
+      TextField(),
+SizedBox(height: 30),
+      ElevatedButton(onPressed: (){}, child: Text('Add'))
+    ],);
   }
 }
