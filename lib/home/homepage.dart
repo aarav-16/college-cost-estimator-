@@ -1,6 +1,5 @@
 import 'dart:convert';
-import 'dart:ui';
-
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -13,6 +12,7 @@ class Homepage extends StatefulWidget {
 
 class _HomepageState extends State<Homepage> {
   Map<String, dynamic> feeData = {};
+  Map<String, dynamic> extraExpense = {};
 
   loadcollegedata() async {
     String data = await rootBundle.loadString("asset/scraped_data.json");
@@ -21,8 +21,16 @@ class _HomepageState extends State<Homepage> {
     });
   }
 
+  loadExpenseData() async {
+    String data = await rootBundle.loadString("asset/add_cost.json");
+    setState(() {
+      extraExpense = json.decode(data);
+    });
+  }
+
   List<SelectedCollege> courselist = [];
   SelectedCollege? selectedcourse;
+  int cost = 0;
   String finalCost = "";
 
   @override
@@ -31,18 +39,44 @@ class _HomepageState extends State<Homepage> {
     loadcollegedata();
   }
 
+  final _auth = FirebaseAuth.instance.currentUser;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text("College Cost Estimator"),
         backgroundColor: Colors.blueAccent,
+        actions: [
+          _auth != null
+              ? Text(
+                  _auth.email!.split('@')[0].toString(),
+                  style: const TextStyle(fontWeight: FontWeight.bold),
+                )
+              : ElevatedButton(
+                  onPressed: () {
+                    Navigator.pushNamed(context, '/login');
+                  },
+                  child: const Text('Login'),
+                ),
+          const SizedBox(width: 10),
+          TextButton(
+              onPressed: () async {
+                await FirebaseAuth.instance.signOut();
+              },
+              child: const Text('Sign Out')),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.pushNamed(context, '/forum');
+            },
+            child: const Text('Forum'),
+          ),
+          const SizedBox(width: 10),
+        ],
       ),
       body: SingleChildScrollView(
         child: Column(
           children: [
-            // Background image from the network
-            // Content
             Padding(
               padding: const EdgeInsets.all(16.0),
               child: SingleChildScrollView(
@@ -54,8 +88,8 @@ class _HomepageState extends State<Homepage> {
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10),
                       ),
-                      child: Padding(
-                        padding: const EdgeInsets.all(16.0),
+                      child: const Padding(
+                        padding: EdgeInsets.all(16.0),
                         child: Text(
                           "Welcome to my college cost estimator! After collecting data from 100+ current students and alumni from the University of Delhi, I've come up with this tool to estimate your final college costs.",
                           style: TextStyle(fontSize: 16, color: Colors.black87),
@@ -63,13 +97,13 @@ class _HomepageState extends State<Homepage> {
                         ),
                       ),
                     ),
-                    SizedBox(height: 20),
-                    Text("College Name",
+                    const SizedBox(height: 20),
+                    const Text("College Name",
                         style: TextStyle(
                             fontSize: 18, fontWeight: FontWeight.bold)),
-                    SizedBox(height: 10),
+                    const SizedBox(height: 10),
                     DropdownButtonFormField(
-                      decoration: InputDecoration(
+                      decoration: const InputDecoration(
                         border: OutlineInputBorder(),
                       ),
                       items: feeData.keys
@@ -88,13 +122,13 @@ class _HomepageState extends State<Homepage> {
                         setState(() {});
                       },
                     ),
-                    SizedBox(height: 20),
-                    Text("Course Name",
+                    const SizedBox(height: 20),
+                    const Text("Course Name",
                         style: TextStyle(
                             fontSize: 18, fontWeight: FontWeight.bold)),
-                    SizedBox(height: 10),
+                    const SizedBox(height: 10),
                     DropdownButtonFormField(
-                      decoration: InputDecoration(
+                      decoration: const InputDecoration(
                         border: OutlineInputBorder(),
                       ),
                       items: courselist.map<DropdownMenuItem<String>>((course) {
@@ -109,46 +143,46 @@ class _HomepageState extends State<Homepage> {
                       }).toList(),
                       onChanged: (val) {},
                     ),
-                    SizedBox(height: 20),
-                    Text("Category",
+                    const SizedBox(height: 20),
+                    const Text("Category",
                         style: TextStyle(
                             fontSize: 18, fontWeight: FontWeight.bold)),
-                    SizedBox(height: 10),
+                    const SizedBox(height: 10),
                     DropdownButtonFormField(
-                      decoration: InputDecoration(
+                      decoration: const InputDecoration(
                         border: OutlineInputBorder(),
                       ),
                       items: selectedcourse != null
                           ? [
                               DropdownMenuItem(
-                                child: Text("SC/ST"),
                                 value: "sc",
                                 onTap: () {
                                   finalCost = selectedcourse!.sc;
                                   setState(() {});
                                 },
+                                child: const Text("SC/ST"),
                               ),
                               DropdownMenuItem(
-                                child: Text("OBC/UR"),
                                 value: "urobcminority",
                                 onTap: () {
                                   finalCost = selectedcourse!.urobcminority;
                                   setState(() {});
                                 },
+                                child: const Text("OBC/UR"),
                               ),
                               DropdownMenuItem(
-                                child: Text("PWD"),
                                 value: "pwd",
                                 onTap: () {
                                   finalCost = (selectedcourse!.pwd);
                                   setState(() {});
                                 },
+                                child: const Text("PWD"),
                               )
                             ]
                           : [],
                       onChanged: (val) {},
                     ),
-                    SizedBox(height: 20),
+                    const SizedBox(height: 20),
                     if (finalCost.isNotEmpty)
                       Card(
                         color: Colors.lightGreenAccent.shade100,
@@ -160,7 +194,7 @@ class _HomepageState extends State<Homepage> {
                           padding: const EdgeInsets.all(16.0),
                           child: Text(
                             "Estimated Final Cost: ₹$finalCost",
-                            style: TextStyle(
+                            style: const TextStyle(
                                 fontSize: 18,
                                 fontWeight: FontWeight.bold,
                                 color: Colors.green),

@@ -1,0 +1,38 @@
+{
+  "acedmic_supplies": {
+    "urobcminority": "14562.5",
+    "sc": "8666.67",
+    "st": "8666.67",
+    "pwd": "75"
+  },
+  "recreation/entertainment":{
+    "urobcminority": "5063.16",
+    "sc": "1000",
+    "st": "1000",
+    "pwd": "75"
+  },
+  "rent/accomodation":{
+    "urobcminority": "124803.16",
+    "sc": "37666.67",
+    "st": "37666.67",
+    "pwd": "75"
+  },
+  "electricity":{
+    "urobcminority": "9368.42",
+    "sc": "5533",
+    "st": "5533",
+    "pwd": "75"
+  },
+  "groceries/hostel-mess":{
+    "urobcminority": "9052",
+    "sc": "1766",
+    "st": "1766",
+    "pwd": "75"
+  },
+  "commute":{
+    "urobcminority": "3300",
+    "sc": "1333",
+    "st": "1333",
+    "pwd": "75"
+  }
+}

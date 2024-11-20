@@ -1,5 +1,7 @@
+import 'package:college_cost_estimator/auth/login.dart';
+import 'package:college_cost_estimator/auth/register.dart';
 import 'package:college_cost_estimator/firebase_options.dart';
-import 'package:college_cost_estimator/home/forum.dart';
+import 'package:college_cost_estimator/forum/forum.dart';
 import 'package:college_cost_estimator/home/homepage.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -19,53 +21,19 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          // This is the theme of your application.
-          //
-          // TRY THIS: Try running your application with "flutter run". You'll see
-          // the application has a purple toolbar. Then, without quitting the app,
-          // try changing the seedColor in the colorScheme below to Colors.green
-          // and then invoke "hot reload" (save your changes or press the "hot
-          // reload" button in a Flutter-supported IDE, or press "r" if you used
-          // the command line to start the app).
-          //
-          // Notice that the counter didn't reset back to zero; the application
-          // state is not lost during the reload. To reset the state, use hot
-          // restart instead.
-          //
-          // This works for code too, not just values: Most code changes can be
-          // tested with just a hot reload.
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-          useMaterial3: true,
-        ),
-        home: const ForumPage());
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        useMaterial3: true,
+      ),
+      // home: const ForumPage(),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => const Homepage(),
+        '/login': (context) => const LoginPage(),
+        '/register': (context) => const RegisterPage(),
+        '/forum': (context) => const ForumPage(),
+      },
+    );
   }
 }
-// class HomePage extends StatelessWidget {
-//   const HomePage({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return  Scaffold(
-//       body: Padding(
-//         padding: const EdgeInsets.all(20.0),
-//         child: Column( crossAxisAlignment: CrossAxisAlignment.start,
-//           children: [
-//             IconButton(onPressed: (){}, icon: Icon(Icons.arrow_back)),
-//             Text("Login",style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold),),
-//             Text("Welcome back please enter your details."),
-//             Text("Email"),
-//             TextField(decoration: InputDecoration(hintText: "Enter your email"),),
-//             Row( mainAxisAlignment: MainAxisAlignment.spaceBetween,
-//               children: [
-//                 Text("Remember for 30 days"),
-//                 Text("Forgot Password")
-//               ],
-//             )
-//           ],
-//         ),
-//       ),
-//     );
-//   }
-// }
