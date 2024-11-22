@@ -30,13 +30,15 @@ class _HomepageState extends State<Homepage> {
 
   List<SelectedCollege> courselist = [];
   SelectedCollege? selectedcourse;
-  int cost = 0;
-  String finalCost = "";
+  String? selectedcategory;
+  double totalCost = 0;
+  String collegeFee = "";
 
   @override
   void initState() {
     super.initState();
     loadcollegedata();
+    loadExpenseData();
   }
 
   final _auth = FirebaseAuth.instance.currentUser;
@@ -60,11 +62,12 @@ class _HomepageState extends State<Homepage> {
                   child: const Text('Login'),
                 ),
           const SizedBox(width: 10),
-          TextButton(
-              onPressed: () async {
-                await FirebaseAuth.instance.signOut();
-              },
-              child: const Text('Sign Out')),
+          if (_auth != null)
+            TextButton(
+                onPressed: () async {
+                  await FirebaseAuth.instance.signOut();
+                },
+                child: const Text('Sign Out')),
           ElevatedButton(
             onPressed: () {
               Navigator.pushNamed(context, '/forum');
@@ -157,7 +160,8 @@ class _HomepageState extends State<Homepage> {
                               DropdownMenuItem(
                                 value: "sc",
                                 onTap: () {
-                                  finalCost = selectedcourse!.sc;
+                                  collegeFee = selectedcourse!.sc;
+                                  selectedcategory = "sc";
                                   setState(() {});
                                 },
                                 child: const Text("SC/ST"),
@@ -165,7 +169,8 @@ class _HomepageState extends State<Homepage> {
                               DropdownMenuItem(
                                 value: "urobcminority",
                                 onTap: () {
-                                  finalCost = selectedcourse!.urobcminority;
+                                  collegeFee = selectedcourse!.urobcminority;
+                                  selectedcategory = "urobcminority";
                                   setState(() {});
                                 },
                                 child: const Text("OBC/UR"),
@@ -173,31 +178,76 @@ class _HomepageState extends State<Homepage> {
                               DropdownMenuItem(
                                 value: "pwd",
                                 onTap: () {
-                                  finalCost = (selectedcourse!.pwd);
+                                  collegeFee = (selectedcourse!.pwd);
+                                  selectedcategory = "pwd";
                                   setState(() {});
                                 },
                                 child: const Text("PWD"),
                               )
                             ]
                           : [],
-                      onChanged: (val) {},
+                      onChanged: (val) {
+                        setState(() {
+                          totalCost = 0;
+                          extraExpense.forEach(
+                            (key, value) => totalCost +=
+                                double.parse(value[selectedcategory]),
+                          );
+                          totalCost += double.parse(collegeFee);
+                        });
+                      },
                     ),
                     const SizedBox(height: 20),
-                    if (finalCost.isNotEmpty)
-                      Card(
-                        color: Colors.lightGreenAccent.shade100,
-                        elevation: 3,
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(10),
-                        ),
-                        child: Padding(
-                          padding: const EdgeInsets.all(16.0),
-                          child: Text(
-                            "Estimated Final Cost: ₹$finalCost",
-                            style: const TextStyle(
-                                fontSize: 18,
-                                fontWeight: FontWeight.bold,
-                                color: Colors.green),
+                    if (selectedcourse != null && selectedcategory != null)
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          ListTile(
+                            tileColor: const Color.fromARGB(255, 252, 229, 161),
+                            title: const Text("College Fee",
+                                style: TextStyle(fontSize: 18)),
+                            trailing: Text(
+                              '₹$collegeFee',
+                              style: const TextStyle(
+                                  fontSize: 16, fontWeight: FontWeight.bold),
+                            ),
+                          ),
+                          const SizedBox(height: 20),
+                          const Text(
+                            'Extra Cost',
+                            style: TextStyle(
+                                fontSize: 18, fontWeight: FontWeight.bold),
+                          ),
+                          ...extraExpense.entries.map(
+                            (e) => ListTile(
+                              title: Text(e.value["title"] ?? "",
+                                  style: const TextStyle(fontSize: 18)),
+                              trailing: Text(
+                                '₹${e.value[selectedcategory]}',
+                                style: const TextStyle(
+                                    fontSize: 16, fontWeight: FontWeight.bold),
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    if (collegeFee.isNotEmpty)
+                      Center(
+                        child: Card(
+                          color: Colors.lightGreenAccent.shade100,
+                          elevation: 3,
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(10),
+                          ),
+                          child: Padding(
+                            padding: const EdgeInsets.all(16.0),
+                            child: Text(
+                              "Estimated Total Cost: ₹${totalCost.ceil()}",
+                              style: const TextStyle(
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.green),
+                            ),
                           ),
                         ),
                       ),
