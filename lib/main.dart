@@ -1,8 +1,11 @@
+import 'package:college_cost_estimator/about/about.dart';
 import 'package:college_cost_estimator/auth/login.dart';
 import 'package:college_cost_estimator/auth/register.dart';
+import 'package:college_cost_estimator/contact/contact.dart';
 import 'package:college_cost_estimator/firebase_options.dart';
 import 'package:college_cost_estimator/forum/forum.dart';
-import 'package:college_cost_estimator/home/homepage.dart';
+import 'package:college_cost_estimator/cost%20estimation/cost_estimation_page.dart';
+import 'package:college_cost_estimator/home/home_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
@@ -29,10 +32,13 @@ class MyApp extends StatelessWidget {
       // home: const ForumPage(),
       initialRoute: '/',
       routes: {
-        '/': (context) => const Homepage(),
+        '/': (context) => const HomePage(),
+        '/forum': (context) => const ForumPage(),
+        '/cost': (context) => const CostEstimationPage(),
         '/login': (context) => const LoginPage(),
         '/register': (context) => const RegisterPage(),
-        '/forum': (context) => const ForumPage(),
+        '/about': (context) => AboutUsPage(),
+        '/contact': (context) => ContactPage(),
       },
     );
   }
